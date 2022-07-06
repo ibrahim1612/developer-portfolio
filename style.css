@@ -1,4 +1,6 @@
-
+body{
+    font-family: 'Nunito Sans', sans-serif;
+}
 h1{
     font-size: 50px;
 }
@@ -7,7 +9,7 @@ h1{
 }
 section{
     display: flex;
-    font-family: 'Nunito Sans', sans-serif;
+    
 }
 .section-1{
     width: 50%;
@@ -17,7 +19,7 @@ section{
 .section-1 img{
     width: 80%;
 }
-#hire-sec{
+.hire-sec{
     background-image: linear-gradient(orange,tomato);
     text-decoration: none;
     padding: 10px 10px;
