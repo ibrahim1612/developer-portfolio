@@ -17,11 +17,16 @@ section{
     font-weight: 20px;
 }
 .section-1 img{
-    width: 80%;
+    width: 90%;
 }
 .hire-sec{
     background-image: linear-gradient(orange,tomato);
     text-decoration: none;
     padding: 10px 10px;
     border-radius: 5px;
+}
+.dream-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position:  right;
 }
